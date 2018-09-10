@@ -47,7 +47,7 @@ https://help.github.com/articles/configuring-a-remote-for-a-fork/
 $ git remote add upstream https://github.com/tamberg/fhnw-syspr-...
 $ git remote -v</pre>
 
-### Syncing Forks
+### Syncing Forks with Upstream
 https://help.github.com/articles/syncing-a-fork/
 <pre>$ git fetch upstream
 $ git checkout master
