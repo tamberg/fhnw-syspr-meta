@@ -11,6 +11,7 @@
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr
 * https://github.com/tamberg/fhnw-syspr-work-00
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00
+    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-00
 * https://github.com/tamberg/fhnw-syspr-work-01
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-01
