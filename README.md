@@ -38,7 +38,7 @@
 * ...
 
 ## Workflow (Teacher)
-### Creating a Fork
+### Creating a Fork per Class
 https://github.com/tamberg/fhnw-syspr-work-00 => click fork button, chose org
 
 ### Adding Upstream to Fork
