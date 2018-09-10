@@ -18,7 +18,7 @@ Setup used to teach module [syspr]( https://www.fhnw.ch/de/studium/module/600808
 * https://github.com/fhnw-syspr-3ib
 * https://github.com/USER (each student)
 
-## GitHub Repos (Teacher)
+## GitHub Repos Teacher
 * https://github.com/tamberg/fhnw-syspr (slides &amp; code examples, per module)
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr (fork, per class)
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr
@@ -66,7 +66,7 @@ To each class specific fork, add a note with the assessment URL
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
 
-## Workflow Student
+## Workflow Students
 ### Playing with Code Examples
 <pre>$ cd ~
 $ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr</pre>
