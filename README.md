@@ -1,5 +1,5 @@
 # FHNW (syspr) Meta
-CC BY-SA, Thomas Amberg, FHNW
+Setup used to teach module [syspr]( https://www.fhnw.ch/de/studium/module/6008081), CC BY-SA [@tamberg](https://twitter.com/tamberg) for [FHNW](https://www.fhnw.ch/).
 
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
