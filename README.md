@@ -24,16 +24,16 @@
 
 ### Adding Upstream to Fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
-    $ git remote -v
+```    $ git remote -v
     $ git remote add upstream https://github.com/tamberg/fhnw-syspr-...
-    $ git remote -v
+    $ git remote -v```
 
 ### Syncing Forks
 https://help.github.com/articles/syncing-a-fork/
-    $ git fetch upstream
+```    $ git fetch upstream
     $ git checkout master
     $ git merge upstream/master
-    $ git push
+    $ git push```
     
 ## Tools
 * Google Slides
