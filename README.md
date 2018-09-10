@@ -42,10 +42,13 @@ To each class specific fork, add a note with the assessment URL
 
 ## Tools Teacher
 * Google Slides
+* AWS S3 (Hosting PDFs)
+* GitHub Classroom
 * GitHub
 * Git
-* AWS S3
+* gcc
 
 ## Tools Students
 * GitHub
 * Git
+* gcc
