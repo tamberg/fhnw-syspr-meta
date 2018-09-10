@@ -66,12 +66,15 @@ To each class specific fork, add a note with the assessment URL
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
 
 ## Workflow Student
-### Playing with code examples
+### Playing with Code Examples
 <pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr</pre>
 
 Changes remain local, forking / pull requests possible to enhance examples.
 
-### Working on a hands-on assignment
+### Updating Slides and Code Examples
+<pre>$ git pull</pre>
+
+### Working on a Hands-on Assignment
 https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 => click classroom link => get personal repo
 <pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-USER
 $ git add FILE
