@@ -3,7 +3,13 @@
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
   * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia (per class)
+    * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia/assignments/fhnw-syspr-work-00 (assessment, per week)
+    * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia/assignments/fhnw-syspr-work-01
+    * ...
   * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib
+    * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib/assignments/fhnw-syspr-work-00
+    * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib/assignments/fhnw-syspr-work-01
+    * ...
 
 ## GitHub
 * https://github.com/tamberg/fhnw-syspr (slides &amp; code examples, per module)
@@ -23,6 +29,7 @@
 * https://github.com/tamberg/fhnw-syspr-work-03
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-03
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-03
+* ...
 
 ### Adding Upstream to Fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
