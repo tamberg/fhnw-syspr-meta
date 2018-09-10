@@ -43,6 +43,9 @@ Setup used to teach module [syspr]( https://www.fhnw.ch/de/studium/module/600808
 * https://github.com/tamberg/fhnw-syspr
 * https://github.com/tamberg/fhnw-syspr-work-00
 
+> *Warning: Do not work on this repository right away.*<br/>
+> *[Check existing Forks, to find the specific repository your class.](../../network/members)*
+
 Can be private, if author has private repos.
 
 ### Creating a Fork per Class
@@ -63,8 +66,8 @@ $ git push</pre>
 
 ### Adding a GitHub Classroom Link
 To each class specific fork, add a note with the assessment URL
-> *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
+> *Warning: Do not work on this repository right away.*<br/>
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
 
 ## Workflow Students
 ### Playing with Code Examples
