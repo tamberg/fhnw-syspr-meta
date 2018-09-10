@@ -86,8 +86,8 @@ $ git push</pre>
 Questions or review request per GitHub issues, right on the personal repo.
 
 Can be private, [request unlimited private repos from GitHub](https://education.github.com/discount_requests/new).
-Beware: There's no easy way to update the personal repo copies.
 
+Beware: There's no easy way to update the personal repo copies.
 
 ## Tools Teacher
 * Google Slides
