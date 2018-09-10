@@ -2,7 +2,7 @@
 
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
-  * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia
+  * https://classroom.github.com/classrooms/42295693-fhnw-syspr-3ia (per class)
   * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib
 
 ## GitHub
@@ -10,8 +10,9 @@
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr
 * https://github.com/tamberg/fhnw-syspr-work-00
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00
-    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg
+  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 (per assignment)
+    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg (per student)
+    * ...
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-00
 * https://github.com/tamberg/fhnw-syspr-work-01
   * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-01
