@@ -74,6 +74,8 @@ Changes remain local, forking / pull requests possible to enhance examples.
 ### Updating Slides and Code Examples
 <pre>$ git pull</pre>
 
+Ideally once a week before lesson starts.
+
 ### Working on a Hands-on Assignment
 https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 => click classroom link => get personal repo
 <pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-USER
@@ -84,6 +86,8 @@ $ git push</pre>
 Questions or review request per GitHub issues, right on the personal repo.
 
 Can be private, [request unlimited private repos from GitHub](https://education.github.com/discount_requests/new).
+Beware: There's no easy way to update the personal repo copies.
+
 
 ## Tools Teacher
 * Google Slides
