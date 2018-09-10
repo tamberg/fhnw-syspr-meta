@@ -37,7 +37,13 @@
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-03
 * ...
 
-## Workflow (Teacher)
+## Workflow Teacher
+### Creating Original Content (once)
+* https://github.com/tamberg/fhnw-syspr
+* https://github.com/tamberg/fhnw-syspr-work-00
+
+Can be private, if author has private repos.
+
 ### Creating a Fork per Class
 https://github.com/tamberg/fhnw-syspr-work-00 => click fork button, chose org
 
@@ -59,7 +65,7 @@ To each class specific fork, add a note with the assessment URL
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
 
-## Workflow (Student)
+## Workflow Student
 https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 => click classroom link => get personal repo
 <pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-USER
 $ git add FILE
@@ -67,6 +73,8 @@ $ git commit -m "fixed all bugs"
 $ git push</pre>
 
 Questions or review request per GitHub issues, right on the personal repo.
+
+Can be private, [request unlimited private repos from GitHub](https://education.github.com/discount_requests/new).
 
 ## Tools Teacher
 * Google Slides
