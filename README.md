@@ -1,4 +1,5 @@
 # FHNW (syspr) Meta
+CC BY-SA, Thomas Amberg, FHNW
 
 ## GitHub Classroom
 * https://classroom.github.com/classrooms
