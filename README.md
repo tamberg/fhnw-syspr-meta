@@ -40,7 +40,12 @@ To each class specific fork, add a note with the assessment URL
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
 
-## Tools
+## Tools Teacher
 * Google Slides
 * GitHub
+* Git
 * AWS S3
+
+## Tools Students
+* GitHub
+* Git
