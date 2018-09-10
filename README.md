@@ -6,12 +6,12 @@
   * https://classroom.github.com/classrooms/42180051-fhnw-syspr-3ib
 
 ## GitHub
-* https://github.com/tamberg/fhnw-syspr
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr
+* https://github.com/tamberg/fhnw-syspr (slides &amp; code examples, per module)
+  * https://github.com/fhnw-syspr-3ia/fhnw-syspr (fork, per class)
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr
-* https://github.com/tamberg/fhnw-syspr-work-00
-  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 (per assignment)
-    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg (per student)
+* https://github.com/tamberg/fhnw-syspr-work-00 (hands-on exercises, per week)
+  * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00 (fork, per class)
+    * https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg (generated copy, per student)
     * ...
   * https://github.com/fhnw-syspr-3ib/fhnw-syspr-work-00
 * https://github.com/tamberg/fhnw-syspr-work-01
