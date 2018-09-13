@@ -65,6 +65,12 @@ $ git checkout master
 $ git merge upstream/master
 $ git push</pre>
 
+### Solving merge conflicts
+<pre>$ nano README.md
+$ git add README.md
+$ git commit
+$ git push</pre>
+
 ### Adding a GitHub Classroom Link
 To each class specific fork, add a note with the assessment URL
 > *Note: Do not work on this repository right away.*<br/>
