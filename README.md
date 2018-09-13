@@ -65,7 +65,7 @@ $ git checkout master
 $ git merge upstream/master
 $ git push</pre>
 
-### Solving merge conflicts
+### Solving Merge Conflicts
 <pre>$ nano README.md
 $ git add README.md
 $ git commit
