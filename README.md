@@ -76,7 +76,7 @@ To each class specific fork, add a note with the assessment URL
 > *Note: Do not work on this repository right away.*<br/>
 > *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
 
-### Enabling the Classroom Link
+### Disabling / Enabling the Classroom Link
 Make sure to disable the Classroom Link in the settings until the repository is in its final version. Once a student copies the repository using the Classroom Link there's no way to update the student's copy.
 
 ## Workflow Students
