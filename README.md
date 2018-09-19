@@ -45,7 +45,7 @@ Setup used to teach module [syspr]( https://www.fhnw.ch/de/studium/module/600808
 
 To each original repository, add the following note:
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing Forks, to find the specific repository your class.](../../network/members)*
+> *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
 
 Can be private, if author has private repos.
 
