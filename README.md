@@ -111,9 +111,7 @@ Can be private, [request unlimited private repos from GitHub](https://education.
 * GitHub Classroom
 * GitHub
 * Git
-* gcc
 
 ## Tools Students
 * GitHub
 * Git
-* gcc
