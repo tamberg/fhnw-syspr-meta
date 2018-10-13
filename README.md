@@ -52,10 +52,13 @@ Can be private, if author has private repos.
 ### Creating a Fork per Class
 https://github.com/tamberg/fhnw-syspr-work-00 => click fork button, chose org
 
+### Cloning the Fork
+<pre>$ git clone https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-xx</pre>
+
 ### Adding Upstream to Fork
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
 <pre>$ git remote -v
-$ git remote add upstream https://github.com/tamberg/fhnw-syspr-...
+$ git remote add upstream https://github.com/tamberg/fhnw-syspr-work-xx
 $ git remote -v</pre>
 
 ### Syncing Forks with Upstream
