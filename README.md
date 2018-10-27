@@ -48,6 +48,7 @@ Can be private, if author has private repos.
 To each original repository, add the following note:
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
+
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
@@ -81,6 +82,7 @@ $ git push</pre>
 To each class specific fork, add a note with the assessment URL
 > *Note: Do not work on this repository right away.*<br/>
 > *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
+
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
