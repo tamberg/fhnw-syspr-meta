@@ -85,7 +85,7 @@ To each class specific fork, add a note with the assessment URL
 
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/OfrCJ_SR).*
 
 ### Disabling / Enabling the Classroom Link
 Make sure to disable the Classroom Link in the settings until the repository is in its final version. Once a student copies the repository using the Classroom Link there's no way to update the student's copy.
