@@ -114,7 +114,7 @@ Questions or review request per GitHub issues, right on the personal repo.
 
 Beware: There's no easy way to update the personal repo copies.
 
-Can be private, [request unlimited private repos from GitHub](https://education.github.com/discount_requests/new).
+Can be private, [request unlimited private repos from GitHub](https://education.github.com/discount_requests/new) and [add organisations](https://education.github.com/benefits).
 
 ## Tools Teacher
 * GitHub Classroom
