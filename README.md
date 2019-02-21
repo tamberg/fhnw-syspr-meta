@@ -50,7 +50,7 @@ To each original repository, add the following note:
 > *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
 
 ```> *Note: Do not work on this repository right away.*<br/>
-> *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
+> *[Check existing Forks, to find the specific repository for your class.](../../network/members)*```
 
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
