@@ -49,9 +49,15 @@ To each original repository, add the following note:
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
 
+```> *Note: Do not work on this repository right away.*<br/>
+> *[Check existing Forks, to find the specific repository for your class.](../../network/members)*
+
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+
+```> *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
+> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*```
 
 ### Creating a Fork per Class
 https://github.com/tamberg/fhnw-syspr-work-00 => click fork button, chose org
@@ -83,9 +89,15 @@ To each class specific fork, add a note with the assessment URL
 > *Note: Do not work on this repository right away.*<br/>
 > *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
 
+```> *Note: Do not work on this repository right away.*<br/>
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*```
+
 Or, in German
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
+
+```> *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*```
 
 ### Disabling / Enabling the Classroom Link
 Make sure to disable the Classroom Link in the settings until the repository is in its final version. Once a student copies the repository using the Classroom Link there's no way to update the student's copy.
