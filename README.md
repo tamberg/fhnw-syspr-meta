@@ -144,3 +144,8 @@ Can be private, [request unlimited private repos from GitHub](https://education.
 ## Tools Students
 * GitHub
 * Git
+
+## Material Students
+*	https://www.brack.ch/kingston-microsdhc-karte-mobility-166751 ~9$
+*	https://www.brack.ch/delock-usb-2-0-kabel-a-microb-430829 ~8$
+*	https://www.brack.ch/sertronics-entwicklerboard-734532 ~24$
